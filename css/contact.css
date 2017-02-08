@@ -1,0 +1,28 @@
+/*Section Tags*/
+section {
+    margin-top: 80px;
+    float: left;
+    width: 48%;
+}
+
+
+/*Contact From IFrame*/
+#contact-form-wrapper {
+    background-color: #eee;
+}
+
+
+
+
+/*MAP IFRAME SECTION*/
+#map-wrapper{
+    width: 50px;
+}
+button{
+    background-color: pink;
+    color: red;
+}
+#physical-info-side{
+    text-align: center;
+    margin-top: 15%
+}

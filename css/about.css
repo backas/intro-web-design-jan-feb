@@ -1,0 +1,58 @@
+#hero2 {
+    text-align: center;
+    margin-top: 58px;
+    background-image: url('../img/cat-without-fedora.jpg');
+    background-position: center;
+    background-size: cover;
+    color: cyan;
+    height: 400px;
+    width: 100%;
+    padding-top: 10px;
+}
+#hero2>h1 {
+    margin: 182px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.column {
+    float: left;
+    width: 33%;
+    font-weight: 600;
+    border: 2px solid cyan;
+}
+
+.column>h3{
+    color: cyan;
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.column>p{
+        font-family: 'Gloria Hallelujah', cursive;
+        background-color: black;
+        color: cyan;
+        text-align: justify;
+        padding: 8px;
+        border: 2px solid cyan;
+}
+html{
+    background-color: black
+}
+
+#col-1 button {
+    background-color: #141414;
+    text-align: center;
+    margin-left: 40%;
+    margin-bottom: 20px;
+}
+#col-2 button {
+    background-color: #00FFFF;
+    text-align: center;
+    margin-left: 40%;
+    margin-bottom: 20px;
+}
+#col-3 button {
+    background-color: #0AFF0A;
+    text-align: center;
+    margin-left: 40%;
+    margin-bottom: 20px;
+}
